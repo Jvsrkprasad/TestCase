@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48645" started-at="2020-05-12T11:34:58 IST" finished-at="2020-05-12T11:35:46 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48645" started-at="2020-05-12T11:34:58 IST" finished-at="2020-05-12T11:35:46 IST">
+      <class name="com.accenture.org.ProgramTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.accenture.org.ProgramTest@76f2b07d]" name="beforeTest" is-config="true" duration-ms="30961" started-at="2020-05-12T11:34:58 IST" finished-at="2020-05-12T11:35:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testlogin()[pri:1, instance:com.accenture.org.ProgramTest@76f2b07d]" name="testlogin" duration-ms="12383" started-at="2020-05-12T11:35:29 IST" finished-at="2020-05-12T11:35:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testitemselection()[pri:2, instance:com.accenture.org.ProgramTest@76f2b07d]" name="testitemselection" duration-ms="5028" started-at="2020-05-12T11:35:41 IST" finished-at="2020-05-12T11:35:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testitemselection -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.accenture.org.ProgramTest@76f2b07d]" name="afterTest" is-config="true" duration-ms="84" started-at="2020-05-12T11:35:46 IST" finished-at="2020-05-12T11:35:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.accenture.org.ProgramTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
